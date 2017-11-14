@@ -1,10 +1,10 @@
 #ifndef SOMECONTROLLER_HPP
 #define SOMECONTROLLER_HPP
- 
+
 #include <cppcms/application.h>
 #include <cppcms/http_response.h>
 #include <cppcms/url_dispatcher.h>
- 
+
 class SomeController : public cppcms::application
 {
 	public:

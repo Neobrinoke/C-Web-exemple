@@ -1,9 +1,9 @@
 #include <cppcms/applications_pool.h>
 #include <cppcms/service.h>
 #include <iostream>
- 
+
 #include "SomeController.hpp"
- 
+
 int main( int argc, char **argv )
 {
 	try
