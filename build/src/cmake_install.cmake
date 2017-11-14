@@ -1,4 +1,4 @@
-# Install script for directory: /home/simplon/Bureau/hello_world/src
+# Install script for directory: /home/simplon/Bureau/git/C-Web-exemple/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

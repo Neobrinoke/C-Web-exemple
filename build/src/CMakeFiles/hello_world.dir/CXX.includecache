@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-../src/SomeController.hpp
+/home/simplon/Bureau/git/C-Web-exemple/src/SomeController.hpp
 cppcms/application.h
 -
 cppcms/http_response.h
@@ -14,7 +14,7 @@ cppcms/http_response.h
 cppcms/url_dispatcher.h
 -
 
-/home/simplon/Bureau/hello_world/src/main.cpp
+/home/simplon/Bureau/git/C-Web-exemple/src/main.cpp
 cppcms/applications_pool.h
 -
 cppcms/service.h
@@ -22,7 +22,7 @@ cppcms/service.h
 iostream
 -
 SomeController.hpp
--
+/home/simplon/Bureau/git/C-Web-exemple/src/SomeController.hpp
 
 /usr/local/include/booster/atomic_counter.h
 booster/config.h
