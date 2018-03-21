@@ -1,1 +1,1 @@
-/usr/bin/c++    -Wall -Wno-sign-compare   CMakeFiles/hello_world.dir/main.cpp.o  -o ../hello_world -rdynamic /usr/local/lib/libbooster.so /usr/local/lib/libcppcms.so -Wl,-rpath,/usr/local/lib 
+/usr/bin/c++    -Wall -Wno-sign-compare   CMakeFiles/hello_world.dir/main.cpp.o CMakeFiles/hello_world.dir/SecurityController.cpp.o  -o ../hello_world -rdynamic /usr/local/lib/libbooster.so /usr/local/lib/libcppcms.so -Wl,-rpath,/usr/local/lib 

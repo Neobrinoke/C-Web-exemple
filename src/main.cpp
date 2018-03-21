@@ -2,18 +2,15 @@
 #include <cppcms/service.h>
 #include <iostream>
 
-#include "SomeController.hpp"
+#include "SecurityController.h"
 
-int main( int argc, char **argv )
-{
-	try
-	{
-		cppcms::service srv( argc, argv );
-		srv.applications_pool().mount( cppcms::applications_factory<SomeController>() );
+int main(int argc, char **argv) {
+	try {
+		cppcms::service srv(argc, argv);
+		srv.applications_pool().mount(cppcms::applications_factory<SecurityController>());
 		srv.run();
 	}
-	catch( std::exception const &e )
-	{
+	catch (std::exception const &e) {
 		std::cerr << e.what() << std::endl;
 	}
 

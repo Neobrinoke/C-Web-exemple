@@ -6,5 +6,5 @@ CXX_FLAGS =  -Wall -Wno-sign-compare
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/usr/local/include -I/home/simplon/Bureau/git/C-Web-exemple/src 
+CXX_INCLUDES = -I/usr/local/include -I/home/neobrinoke/Bureau/C-Web-exemple/src 
 

@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/simplon/Bureau/git/C-Web-exemple/src/SomeController.hpp
+/home/neobrinoke/Bureau/C-Web-exemple/src/SecurityController.cpp
+SecurityController.h
+/home/neobrinoke/Bureau/C-Web-exemple/src/SecurityController.h
+
+/home/neobrinoke/Bureau/C-Web-exemple/src/SecurityController.h
 cppcms/application.h
 -
 cppcms/http_response.h
@@ -14,15 +18,15 @@ cppcms/http_response.h
 cppcms/url_dispatcher.h
 -
 
-/home/simplon/Bureau/git/C-Web-exemple/src/main.cpp
+/home/neobrinoke/Bureau/C-Web-exemple/src/main.cpp
 cppcms/applications_pool.h
 -
 cppcms/service.h
 -
 iostream
 -
-SomeController.hpp
-/home/simplon/Bureau/git/C-Web-exemple/src/SomeController.hpp
+SecurityController.h
+/home/neobrinoke/Bureau/C-Web-exemple/src/SecurityController.h
 
 /usr/local/include/booster/atomic_counter.h
 booster/config.h
